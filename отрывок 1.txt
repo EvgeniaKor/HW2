@@ -1,0 +1,29 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Отрывок_1</title>
+            </titleStmt>
+         </fileDesc>
+    </teiHeader>
+    <text>   
+<text><speech>
+<said type="direct" aloud="true"> -- Жарко, душно в Дербенте! </said>
+</speech></text>
+<text><speech>
+<said type="direct" aloud="true"> Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?  </said>
+</speech></text>
+<text><speech>
+<said type="direct" aloud="true"> -- Нет, ами (дядя)!  </said>
+</speech></text>
+<text><speech>
+<said type="direct" aloud="true"> Запад голубее глаз моей сестрицы. </said>
+</speech></text>
+<text><speech>
+<said type="direct" aloud="true"> Солнце упало ярко, словно "золотой цвет" на ее груди.</said>
+</speech></text>
+<text><speech>
+<said type="direct" aloud="true"> Ни один взор его не гаснет в тумане.</said>
+</speech></text>
+    </text>
+</TEI>
